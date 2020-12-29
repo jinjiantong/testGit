@@ -9,7 +9,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+<<<<<<< HEAD
         Text("Helasdasdfasdfasdffadslo, world!asdfaasdfasdfasdasdfasdfasdfasdfasfasfasdfads")
+=======
+
+        Text("Hello, world!asdfaasasdfasdfasdfasfasdfasddfasdfasdfads")
+>>>>>>> branchcommit
             .padding()
     }
 }
